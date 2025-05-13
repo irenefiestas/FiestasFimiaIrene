@@ -1,4 +1,6 @@
 <?php
+// Esta es una modificación de prueba para Git
+//Otro comentario
 /**
  * Script de ejemplo para documentación con phpDocumentor.
  *
